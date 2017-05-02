@@ -1,3 +1,4 @@
 console.log('Hello from main!');
 
-export * from './Releaser';
+export * from './Greeter';
+export * from './SadGreeter';

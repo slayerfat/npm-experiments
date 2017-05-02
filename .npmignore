@@ -3,5 +3,4 @@ src/
 /.editorconfig
 /.npmignore
 /tslint.json
-/.editorconfig
 /tsconfig.json
