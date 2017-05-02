@@ -1,0 +1,7 @@
+.idea/
+src/
+/tslint.json
+/.editorconfig
+/tsconfig.json
+/.npmignore
+

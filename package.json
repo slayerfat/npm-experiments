@@ -2,9 +2,11 @@
   "name": "npm-experiments",
   "version": "0.0.1",
   "description": "Just another npm experimient",
-  "main": "index.js",
+  "main": "./lib/main.js",
+  "types": "./lib/main.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/slayerfat/npm-experiments/issues"
   },
-  "homepage": "https://github.com/slayerfat/npm-experiments#readme"
+  "homepage": "https://github.com/slayerfat/npm-experiments#readme",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  }
 }
