@@ -37,3 +37,9 @@ after than u can:
 cd path/to/consumer/
 npm install ../path/to/package/packagename-version.tgz
 ```
+
+## Testing
+
+Extracted from [This article](https://journal.artfuldev.com/write-tests-for-typescript-projects-with-mocha-and-chai-in-typescript-86e053bdb2b6)
+
+ts-node makes all the magic happen.
