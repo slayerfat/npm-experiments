@@ -1,8 +1,8 @@
 # npm-experiments
 
-Uses [this documentation.](https://docs.npmjs.com/misc/developers)
+[![Build Status](https://travis-ci.org/slayerfat/npm-experiments.svg?branch=master)](https://travis-ci.org/slayerfat/npm-experiments)
 
-inspired by [this article.](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+Uses [this documentation](https://docs.npmjs.com/misc/developers) and its inspired by [this article.](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 
 The feature branches have some experiments on:
 - [x] Basic Typescript
