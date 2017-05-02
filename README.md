@@ -5,9 +5,9 @@
 Uses [this documentation](https://docs.npmjs.com/misc/developers) and its inspired by [this article.](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 
 The feature branches have some experiments on:
-- [x] Basic Typescript
+- [x] Basic Typescript (merged)
 - [ ] Basic ES5 Javascript
-- [ ] Basic ES6 Javascript
+- [x] Basic ES6 Javascript
 
 ## This branch setup
 
