@@ -9,6 +9,10 @@ The feature branches have some experiments on:
 - [ ] Basic ES5 Javascript
 - [ ] Basic ES6 Javascript
 
+## Babel
+
+http://babeljs.io/docs/setup/#installation
+
 ## Local testing without publish
 
 ### With npm link

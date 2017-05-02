@@ -2,3 +2,4 @@
 src/
 /.editorconfig
 /.npmignore
+/.babelrc
