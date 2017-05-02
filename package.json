@@ -1,6 +1,6 @@
 {
   "name": "npm-experiments",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Just another npm experimient",
   "main": "./lib/main.js",
   "types": "./lib/main.d.ts",
