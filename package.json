@@ -1,0 +1,19 @@
+{
+  "name": "npm-experiments",
+  "version": "0.0.1",
+  "description": "Just another npm experimient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slayerfat/npm-experiments.git"
+  },
+  "author": "Alejandro Granadillo <slayerfat@gmail.com> (http://slayerfat.com.ve/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slayerfat/npm-experiments/issues"
+  },
+  "homepage": "https://github.com/slayerfat/npm-experiments#readme"
+}
