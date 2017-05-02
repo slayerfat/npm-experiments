@@ -9,6 +9,14 @@ The feature branches have some experiments on:
 - [ ] Basic ES5 Javascript
 - [ ] Basic ES6 Javascript
 
+## This branch setup
+
+The main entry is inside the src folder as main.ts
+
+This process is done in the package.json prepublish script which just calls the compiler.
+
+Thx to tsconfig.json the typescript compiler will output the files into the lib folder.
+
 ## Local testing without publish
 
 ### With npm link
